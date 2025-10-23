@@ -5,14 +5,14 @@
 
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Monal+Sehrawat+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;CS+Student+%F0%9F%8E%93;Hackathon+Runnerup+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Monal+Sehrawat+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;CSE+Student+%F0%9F%8E%93;Hackathon+Runnerup+%F0%9F%8F%86" alt="Typing SVG" />
 </h1>
 <h3 align="center">🌟 Crafting elegant solutions with code & creativity 🌟</h3>
 
 <div align="center">
   <a href="">Portfolio</a> •
   <a href="">Resume</a> •
-  <a href="https://linkedin.com/in/">LinkedIn</a> •
+  <a href="https://linkedin.com/in/monal-sehrawat-021517342">LinkedIn</a> •
   <a href="mailto:monalsehrawat20@gmail.com">Email</a>
 </div>
 
