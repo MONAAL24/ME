@@ -85,6 +85,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=anuj-er&color=blue&style=flat-square)
+![Profile Views](soon)
 
 </div>
