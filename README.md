@@ -80,7 +80,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj-er&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,issues" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=MONAAL24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,issues" alt="GitHub Stats" height="150">
 </div>
 
 <div align="center">
